@@ -23,7 +23,7 @@ It uses a two-stage verification process:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/VeriPix.git](https://github.com/yourusername/VeriPix.git)
+    git clone [https://github.com/NOMANMUNEER//VeriPix.git](https://github.com/NOMANMUNEER//VeriPix.git)
     cd VeriPix
     ```
 
